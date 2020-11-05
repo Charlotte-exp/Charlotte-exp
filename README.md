@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello and Welcome to my Github! 👋
+- 🎓 I'm a PhD student at [MPI for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en).
+- 🔭 I’m currently working on Experimental approaches to social behaviour.
+- 🌱 I'm learning to create economic games with Python & oTree.
+- 📫 How to reach me: You can contact me via mail [✉️](rossetti@evolbio.mpg.de)
 
 <!--
 **Charlotte-exp/Charlotte-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
