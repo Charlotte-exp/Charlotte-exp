@@ -1,8 +1,10 @@
-### Hello and Welcome to my Github! 👋
-- 🎓 I'm a PhD candidate at [MPI for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en).
-- 🔭 I’m currently working on Experimental approaches to social behaviour.
-- 🌱 I'm learning to create economic games with Python & oTree.
-- 📫 How to reach me: You can contact me via mail [✉️](rossetti@evolbio.mpg.de)
+### Grüezi and Welcome to my Github! 👋
+- 🎓 I'm a Postdoc in the Social and Economic Psychology group at the [Univeristy of Zürich](https://www.uzh.ch/en.html).
+- 🔭 I research human social behaviour through economic games and evolutionary simulations.
+- 🌱 I’m currently improving my CSS and HTML knowledge and dabbing into Javascript.
+- 😄 Pronouns: she/her ♀️
+- 📫 How to reach me: You can contact me via mail [✉️](charlotte.rossetti@uzh.ch)
+- ⚡ Fun fact: I like learning things by heart. Currently tackling the regions of China and the Beaufort scale
 
 <!--
 **Charlotte-exp/Charlotte-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
