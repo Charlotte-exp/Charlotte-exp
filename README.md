@@ -1,7 +1,6 @@
 ### Grüezi and Welcome to my Github! 👋
 - 🎓 I'm a Postdoc in the Social and Economic Psychology group at the [Univeristy of Zürich](https://www.uzh.ch/en.html).
 - 🔭 I research human social behaviour through economic games and evolutionary simulations.
-- 🌱 I’m currently improving my CSS and HTML knowledge and dabbing into Javascript.
 - 😄 Pronouns: she/her ♀️
 - 📫 How to reach me: You can contact me via mail [✉️](charlotte.rossetti@uzh.ch)
 - ⚡ Fun fact: I like learning things by heart. Currently tackling the regions of China and the Beaufort scale
